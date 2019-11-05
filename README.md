@@ -1,2 +1,2 @@
 # SprintAndreas
-Test repository
+Test repository untuk SDP IT Pegadaian
